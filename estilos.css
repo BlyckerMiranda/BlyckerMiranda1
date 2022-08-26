@@ -1,0 +1,19 @@
+.barra{
+    position: fixed; width: 100%;
+    z-index: 4;
+}
+body{
+    background: url(fondo.jpg);
+}
+.navbar{
+    background-image: url(fondo.jpg);
+}
+
+.contenidoObjetos{
+    width: 100%;
+}
+
+.pagina{
+    width: 100%;
+    display: flex;
+}
